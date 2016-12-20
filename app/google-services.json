@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "915448830118",
+    "firebase_url": "https://viewpagertutorial.firebaseio.com",
+    "project_id": "viewpagertutorial",
+    "storage_bucket": "viewpagertutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915448830118:android:f3628ca4ba2d9d21",
+        "android_client_info": {
+          "package_name": "com.software.fire.viewpagerwithfirebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915448830118-8buk8hug57h6b2c44cos4ltur9j6pel7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWE7xmcmuqyB1Vz5no11DCmxbzFADM4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
